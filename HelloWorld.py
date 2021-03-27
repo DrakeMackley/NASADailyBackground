@@ -1,7 +1,0 @@
-print(f'Hello World')
-print(f'Hello World')
-print(f'Hello World')
-print(f'Hello World')
-print(f'Hello World')
-world = input('Enter number:') 
-print(f'{world}')
